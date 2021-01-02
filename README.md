@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://avatars1.githubusercontent.com/u/54764589?s=96&v=4">
+<h2> Hey there! I'm Extrader 👋.</h2>
 
 <!--
 **Extrader-home/Extrader-home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +18,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Extrader-home">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Extrader-home&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extrader-home&theme=buefy&layout=compact" />
 </a>
